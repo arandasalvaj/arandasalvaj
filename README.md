@@ -1,4 +1,4 @@
-# Hola, soy [tu nombre aquí] 👋
+# Hola, soy Jean 👋
 
 Soy un desarrollador de software apasionado por crear soluciones innovadoras y eficientes a través de la tecnología. Tengo experiencia en las siguientes tecnologías:
 
